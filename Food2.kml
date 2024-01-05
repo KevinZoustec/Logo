@@ -43,8 +43,14 @@
       </Pair>
     </StyleMap>
     <Placemark>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>https://kevinzoustec.github.io/Logo/NewFoodIcon.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
       <name>麵屋山茶 (請私訊FB專頁預約)</name>
-      <styleUrl>https://kevinzoustec.github.io/Logo/NewFoodIcon.png</styleUrl>
       <Point>
         <coordinates>
           121.4771879,25.0262851,0
@@ -52,8 +58,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>https://kevinzoustec.github.io/Logo/NewFoodIcon.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
       <name>瞇瞇眼義麵工坊（不提供訂位）</name>
-      <styleUrl>https://kevinzoustec.github.io/Logo/NewFoodIcon.png</styleUrl>
       <Point>
         <coordinates>
           121.4782762,25.027297,0
