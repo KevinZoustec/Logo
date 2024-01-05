@@ -35,11 +35,11 @@
     <StyleMap id="icon-1577-0288D1-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1577-0288D1-nodesc-normal</styleUrl>
+        <styleUrl>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1577-0288D1-nodesc-highlight</styleUrl>
+        <styleUrl>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</styleUrl>
       </Pair>
     </StyleMap>
     <Placemark>
