@@ -58,7 +58,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <Style>
+      <Style  id="mystyle">
         <IconStyle>
           <Icon>
             <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
